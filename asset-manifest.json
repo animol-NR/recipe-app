@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/animol-NR/recipe-app/static/css/main.6f306ce0.chunk.css",
+    "main.js": "/animol-NR/recipe-app/static/js/main.95d8ff2d.chunk.js",
+    "main.js.map": "/animol-NR/recipe-app/static/js/main.95d8ff2d.chunk.js.map",
+    "runtime-main.js": "/animol-NR/recipe-app/static/js/runtime-main.36d0f544.js",
+    "runtime-main.js.map": "/animol-NR/recipe-app/static/js/runtime-main.36d0f544.js.map",
+    "static/js/2.0002be96.chunk.js": "/animol-NR/recipe-app/static/js/2.0002be96.chunk.js",
+    "static/js/2.0002be96.chunk.js.map": "/animol-NR/recipe-app/static/js/2.0002be96.chunk.js.map",
+    "index.html": "/animol-NR/recipe-app/index.html",
+    "precache-manifest.ffab60cfab162a6728b15c5128837d92.js": "/animol-NR/recipe-app/precache-manifest.ffab60cfab162a6728b15c5128837d92.js",
+    "service-worker.js": "/animol-NR/recipe-app/service-worker.js",
+    "static/css/main.6f306ce0.chunk.css.map": "/animol-NR/recipe-app/static/css/main.6f306ce0.chunk.css.map",
+    "static/js/2.0002be96.chunk.js.LICENSE.txt": "/animol-NR/recipe-app/static/js/2.0002be96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36d0f544.js",
+    "static/js/2.0002be96.chunk.js",
+    "static/css/main.6f306ce0.chunk.css",
+    "static/js/main.95d8ff2d.chunk.js"
+  ]
+}
